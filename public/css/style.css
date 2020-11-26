@@ -1,0 +1,17 @@
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.img-product {
+    max-height: 150px;
+}
+
+.footer-bottom {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #20AA6B;
+}
+
+.color-primary {
+    background-color: #20AA6B;
+}
